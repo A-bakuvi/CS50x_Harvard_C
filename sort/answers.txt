@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because bubble sort should be the slowest in sorted time because it uses n steps while selection sort uses n squared and
+merge sort uses n log n which are both slower than n.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because merge sort is the fastest (except in sorted against bubble sort) because it uses n log n while the other normally use
+n squared.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection sort should be the slower than bubble sort in sorted and slower than merge sort in any way so that leaves us sort3.
